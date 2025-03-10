@@ -1,7 +1,7 @@
 ## Hi there 👋
 I like to learn new things, which makes Anki (and SRS) my favorite subject.
 
-### I use these to make fun things
+### 👨‍💻 I use these to make fun things
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
