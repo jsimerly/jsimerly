@@ -23,7 +23,7 @@ I always have 2-3 projects going at once, there's just too much fun to be had:
 </div>
 
 ### ⚡ Fun fact: ...
-I took second place in a **hot** wing eat competition.
+I took second place in a **hot** wing eating competition.
 
 
 <!--
